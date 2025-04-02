@@ -1,0 +1,1296 @@
+2025-03-26 18:06:23 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-26 18:06:23 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-26 18:06:23 | INFO     | dispatcher:527 - Start polling
+2025-03-26 18:06:23 | INFO     | dispatcher:527 - Start polling
+2025-03-26 18:06:23 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 18:06:23 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 18:06:28 | INFO     | dispatcher:172 - Update id=719424223 is handled. Duration 251 ms by bot id=7104771551
+2025-03-26 18:06:28 | INFO     | dispatcher:172 - Update id=719424223 is handled. Duration 251 ms by bot id=7104771551
+2025-03-26 18:06:31 | INFO     | dispatcher:172 - Update id=719424224 is handled. Duration 91 ms by bot id=7104771551
+2025-03-26 18:06:31 | INFO     | dispatcher:172 - Update id=719424224 is handled. Duration 91 ms by bot id=7104771551
+2025-03-26 18:06:34 | DEBUG    | bot:265 - Hello
+2025-03-26 18:06:34 | DEBUG    | bot:265 - Hello
+2025-03-26 18:06:34 | INFO     | dispatcher:172 - Update id=719424225 is handled. Duration 230 ms by bot id=7104771551
+2025-03-26 18:06:34 | INFO     | dispatcher:172 - Update id=719424225 is handled. Duration 230 ms by bot id=7104771551
+2025-03-26 18:07:38 | DEBUG    | bot:265 - Hello
+2025-03-26 18:07:38 | DEBUG    | bot:265 - Hello
+2025-03-26 18:07:38 | INFO     | dispatcher:172 - Update id=719424226 is handled. Duration 151 ms by bot id=7104771551
+2025-03-26 18:07:38 | INFO     | dispatcher:172 - Update id=719424226 is handled. Duration 151 ms by bot id=7104771551
+2025-03-26 18:20:35 | INFO     | dispatcher:172 - Update id=719424227 is handled. Duration 96 ms by bot id=7104771551
+2025-03-26 18:20:35 | INFO     | dispatcher:172 - Update id=719424227 is handled. Duration 96 ms by bot id=7104771551
+2025-03-26 18:20:37 | INFO     | dispatcher:172 - Update id=719424228 is handled. Duration 684 ms by bot id=7104771551
+2025-03-26 18:20:37 | INFO     | dispatcher:172 - Update id=719424228 is handled. Duration 684 ms by bot id=7104771551
+2025-03-26 19:02:27 | INFO     | dispatcher:554 - Polling stopped
+2025-03-26 19:02:27 | INFO     | dispatcher:554 - Polling stopped
+2025-03-26 19:02:27 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 19:02:27 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 20:12:27 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-26 20:12:27 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-26 20:12:28 | INFO     | dispatcher:527 - Start polling
+2025-03-26 20:12:28 | INFO     | dispatcher:527 - Start polling
+2025-03-26 20:12:28 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 20:12:28 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 20:14:19 | INFO     | dispatcher:172 - Update id=719424229 is handled. Duration 246 ms by bot id=7104771551
+2025-03-26 20:14:19 | INFO     | dispatcher:172 - Update id=719424229 is handled. Duration 246 ms by bot id=7104771551
+2025-03-26 20:14:20 | INFO     | dispatcher:172 - Update id=719424230 is handled. Duration 656 ms by bot id=7104771551
+2025-03-26 20:14:20 | INFO     | dispatcher:172 - Update id=719424230 is handled. Duration 656 ms by bot id=7104771551
+2025-03-26 20:14:24 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-26 20:14:24 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-26 20:14:24 | INFO     | dispatcher:172 - Update id=719424231 is handled. Duration 92 ms by bot id=7104771551
+2025-03-26 20:14:24 | INFO     | dispatcher:172 - Update id=719424231 is handled. Duration 92 ms by bot id=7104771551
+2025-03-26 21:52:50 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-26 21:52:50 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-26 21:52:50 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-26 21:52:50 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-26 21:53:01 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-26 21:53:01 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-26 23:08:35 | INFO     | dispatcher:554 - Polling stopped
+2025-03-26 23:08:35 | INFO     | dispatcher:554 - Polling stopped
+2025-03-26 23:08:35 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-26 23:08:35 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:20:27 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:20:27 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:20:28 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:20:28 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:20:28 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:20:28 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:20:28 | DEBUG    | bot:261 - Hello
+2025-03-28 20:20:28 | DEBUG    | bot:261 - Hello
+2025-03-28 20:20:28 | DEBUG    | bot:261 - Hello
+2025-03-28 20:20:28 | DEBUG    | bot:261 - Hello
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424236 is handled. Duration 293 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424236 is handled. Duration 293 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424232 is handled. Duration 312 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424232 is handled. Duration 312 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424233 is handled. Duration 332 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424233 is handled. Duration 332 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424235 is handled. Duration 354 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424235 is handled. Duration 354 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424234 is handled. Duration 377 ms by bot id=7104771551
+2025-03-28 20:20:28 | INFO     | dispatcher:172 - Update id=719424234 is handled. Duration 377 ms by bot id=7104771551
+2025-03-28 20:20:31 | INFO     | dispatcher:172 - Update id=719424237 is handled. Duration 119 ms by bot id=7104771551
+2025-03-28 20:20:31 | INFO     | dispatcher:172 - Update id=719424237 is handled. Duration 119 ms by bot id=7104771551
+2025-03-28 20:24:23 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 20:24:23 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 20:24:23 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:24:23 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:28:25 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:28:25 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:28:26 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:28:26 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:28:26 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:28:26 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:28:29 | INFO     | dispatcher:172 - Update id=719424238 is handled. Duration 223 ms by bot id=7104771551
+2025-03-28 20:28:29 | INFO     | dispatcher:172 - Update id=719424238 is handled. Duration 223 ms by bot id=7104771551
+2025-03-28 20:28:36 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 20:28:36 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 20:28:36 | INFO     | dispatcher:172 - Update id=719424239 is handled. Duration 124 ms by bot id=7104771551
+2025-03-28 20:28:36 | INFO     | dispatcher:172 - Update id=719424239 is handled. Duration 124 ms by bot id=7104771551
+2025-03-28 20:28:45 | INFO     | bot:54 - Обрано фільм: The Hunger Games 3
+2025-03-28 20:28:45 | INFO     | bot:54 - Обрано фільм: The Hunger Games 3
+2025-03-28 20:28:45 | INFO     | dispatcher:172 - Update id=719424240 is handled. Duration 89 ms by bot id=7104771551
+2025-03-28 20:28:45 | INFO     | dispatcher:172 - Update id=719424240 is handled. Duration 89 ms by bot id=7104771551
+2025-03-28 20:29:18 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 20:29:18 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 20:29:19 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:29:19 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:48:45 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:48:45 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 20:48:46 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:48:46 | INFO     | dispatcher:527 - Start polling
+2025-03-28 20:48:46 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:48:46 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 20:48:53 | INFO     | dispatcher:172 - Update id=719424241 is handled. Duration 252 ms by bot id=7104771551
+2025-03-28 20:48:53 | INFO     | dispatcher:172 - Update id=719424241 is handled. Duration 252 ms by bot id=7104771551
+2025-03-28 20:48:58 | INFO     | dispatcher:172 - Update id=719424242 is handled. Duration 91 ms by bot id=7104771551
+2025-03-28 20:48:58 | INFO     | dispatcher:172 - Update id=719424242 is handled. Duration 91 ms by bot id=7104771551
+2025-03-28 20:49:01 | INFO     | dispatcher:172 - Update id=719424243 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 20:49:01 | INFO     | dispatcher:172 - Update id=719424243 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 20:49:04 | INFO     | dispatcher:172 - Update id=719424244 is handled. Duration 604 ms by bot id=7104771551
+2025-03-28 20:49:04 | INFO     | dispatcher:172 - Update id=719424244 is handled. Duration 604 ms by bot id=7104771551
+2025-03-28 20:49:12 | INFO     | dispatcher:172 - Update id=719424245 is handled. Duration 145 ms by bot id=7104771551
+2025-03-28 20:49:12 | INFO     | dispatcher:172 - Update id=719424245 is handled. Duration 145 ms by bot id=7104771551
+2025-03-28 20:49:14 | INFO     | dispatcher:172 - Update id=719424246 is handled. Duration 198 ms by bot id=7104771551
+2025-03-28 20:49:14 | INFO     | dispatcher:172 - Update id=719424246 is handled. Duration 198 ms by bot id=7104771551
+2025-03-28 20:49:16 | INFO     | dispatcher:172 - Update id=719424247 is handled. Duration 289 ms by bot id=7104771551
+2025-03-28 20:49:16 | INFO     | dispatcher:172 - Update id=719424247 is handled. Duration 289 ms by bot id=7104771551
+2025-03-28 20:52:39 | INFO     | dispatcher:172 - Update id=719424248 is handled. Duration 113 ms by bot id=7104771551
+2025-03-28 20:52:39 | INFO     | dispatcher:172 - Update id=719424248 is handled. Duration 113 ms by bot id=7104771551
+2025-03-28 20:52:44 | INFO     | dispatcher:172 - Update id=719424249 is handled. Duration 108 ms by bot id=7104771551
+2025-03-28 20:52:44 | INFO     | dispatcher:172 - Update id=719424249 is handled. Duration 108 ms by bot id=7104771551
+2025-03-28 21:01:54 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:01:54 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:01:55 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:01:55 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:02:08 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:02:08 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:02:08 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:02:08 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:02:08 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:02:08 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:02:16 | INFO     | dispatcher:172 - Update id=719424250 is handled. Duration 244 ms by bot id=7104771551
+2025-03-28 21:02:16 | INFO     | dispatcher:172 - Update id=719424250 is handled. Duration 244 ms by bot id=7104771551
+2025-03-28 21:02:20 | INFO     | dispatcher:172 - Update id=719424251 is handled. Duration 119 ms by bot id=7104771551
+2025-03-28 21:02:20 | INFO     | dispatcher:172 - Update id=719424251 is handled. Duration 119 ms by bot id=7104771551
+2025-03-28 21:02:22 | INFO     | dispatcher:172 - Update id=719424252 is handled. Duration 171 ms by bot id=7104771551
+2025-03-28 21:02:22 | INFO     | dispatcher:172 - Update id=719424252 is handled. Duration 171 ms by bot id=7104771551
+2025-03-28 21:02:25 | INFO     | dispatcher:172 - Update id=719424253 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:02:25 | INFO     | dispatcher:172 - Update id=719424253 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:02:31 | INFO     | dispatcher:172 - Update id=719424254 is handled. Duration 128 ms by bot id=7104771551
+2025-03-28 21:02:31 | INFO     | dispatcher:172 - Update id=719424254 is handled. Duration 128 ms by bot id=7104771551
+2025-03-28 21:02:40 | INFO     | dispatcher:172 - Update id=719424255 is handled. Duration 91 ms by bot id=7104771551
+2025-03-28 21:02:40 | INFO     | dispatcher:172 - Update id=719424255 is handled. Duration 91 ms by bot id=7104771551
+2025-03-28 21:03:11 | INFO     | dispatcher:172 - Update id=719424256 is not handled. Duration 4 ms by bot id=7104771551
+2025-03-28 21:03:11 | INFO     | dispatcher:172 - Update id=719424256 is not handled. Duration 4 ms by bot id=7104771551
+2025-03-28 21:03:11 | ERROR    | dispatcher:315 - Cause exception while process update id=719424256 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:03:11 | ERROR    | dispatcher:315 - Cause exception while process update id=719424256 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:03:18 | INFO     | dispatcher:172 - Update id=719424257 is not handled. Duration 3 ms by bot id=7104771551
+2025-03-28 21:03:18 | INFO     | dispatcher:172 - Update id=719424257 is not handled. Duration 3 ms by bot id=7104771551
+2025-03-28 21:03:18 | ERROR    | dispatcher:315 - Cause exception while process update id=719424257 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:03:18 | ERROR    | dispatcher:315 - Cause exception while process update id=719424257 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:03:25 | INFO     | dispatcher:172 - Update id=719424258 is not handled. Duration 5 ms by bot id=7104771551
+2025-03-28 21:03:25 | INFO     | dispatcher:172 - Update id=719424258 is not handled. Duration 5 ms by bot id=7104771551
+2025-03-28 21:03:25 | ERROR    | dispatcher:315 - Cause exception while process update id=719424258 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...gg ddd'], 'poster': 'f'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...gg ddd'], 'poster': 'f'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:03:25 | ERROR    | dispatcher:315 - Cause exception while process update id=719424258 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...gg ddd'], 'poster': 'f'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'fffff', 'descri...gg ddd'], 'poster': 'f'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:04:28 | INFO     | dispatcher:172 - Update id=719424259 is handled. Duration 200 ms by bot id=7104771551
+2025-03-28 21:04:28 | INFO     | dispatcher:172 - Update id=719424259 is handled. Duration 200 ms by bot id=7104771551
+2025-03-28 21:04:36 | INFO     | dispatcher:172 - Update id=719424260 is handled. Duration 143 ms by bot id=7104771551
+2025-03-28 21:04:36 | INFO     | dispatcher:172 - Update id=719424260 is handled. Duration 143 ms by bot id=7104771551
+2025-03-28 21:04:41 | INFO     | dispatcher:172 - Update id=719424261 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:04:41 | INFO     | dispatcher:172 - Update id=719424261 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:04:44 | INFO     | dispatcher:172 - Update id=719424262 is handled. Duration 96 ms by bot id=7104771551
+2025-03-28 21:04:44 | INFO     | dispatcher:172 - Update id=719424262 is handled. Duration 96 ms by bot id=7104771551
+2025-03-28 21:04:52 | INFO     | dispatcher:172 - Update id=719424263 is handled. Duration 168 ms by bot id=7104771551
+2025-03-28 21:04:52 | INFO     | dispatcher:172 - Update id=719424263 is handled. Duration 168 ms by bot id=7104771551
+2025-03-28 21:05:47 | INFO     | dispatcher:172 - Update id=719424264 is handled. Duration 220 ms by bot id=7104771551
+2025-03-28 21:05:47 | INFO     | dispatcher:172 - Update id=719424264 is handled. Duration 220 ms by bot id=7104771551
+2025-03-28 21:05:54 | INFO     | dispatcher:172 - Update id=719424265 is not handled. Duration 3 ms by bot id=7104771551
+2025-03-28 21:05:54 | INFO     | dispatcher:172 - Update id=719424265 is not handled. Duration 3 ms by bot id=7104771551
+2025-03-28 21:05:54 | ERROR    | dispatcher:315 - Cause exception while process update id=719424265 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:05:54 | ERROR    | dispatcher:315 - Cause exception while process update id=719424265 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 390, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:05:58 | INFO     | dispatcher:172 - Update id=719424266 is handled. Duration 175 ms by bot id=7104771551
+2025-03-28 21:05:58 | INFO     | dispatcher:172 - Update id=719424266 is handled. Duration 175 ms by bot id=7104771551
+2025-03-28 21:06:50 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:06:50 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:06:50 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:06:50 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:06:53 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:06:53 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:06:54 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:06:54 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:06:54 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:06:54 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:06:56 | INFO     | dispatcher:172 - Update id=719424267 is handled. Duration 225 ms by bot id=7104771551
+2025-03-28 21:06:56 | INFO     | dispatcher:172 - Update id=719424267 is handled. Duration 225 ms by bot id=7104771551
+2025-03-28 21:06:57 | INFO     | dispatcher:172 - Update id=719424268 is handled. Duration 625 ms by bot id=7104771551
+2025-03-28 21:06:57 | INFO     | dispatcher:172 - Update id=719424268 is handled. Duration 625 ms by bot id=7104771551
+2025-03-28 21:07:00 | INFO     | dispatcher:172 - Update id=719424269 is handled. Duration 154 ms by bot id=7104771551
+2025-03-28 21:07:00 | INFO     | dispatcher:172 - Update id=719424269 is handled. Duration 154 ms by bot id=7104771551
+2025-03-28 21:07:04 | INFO     | dispatcher:172 - Update id=719424270 is handled. Duration 163 ms by bot id=7104771551
+2025-03-28 21:07:04 | INFO     | dispatcher:172 - Update id=719424270 is handled. Duration 163 ms by bot id=7104771551
+2025-03-28 21:07:08 | INFO     | dispatcher:172 - Update id=719424271 is handled. Duration 185 ms by bot id=7104771551
+2025-03-28 21:07:08 | INFO     | dispatcher:172 - Update id=719424271 is handled. Duration 185 ms by bot id=7104771551
+2025-03-28 21:07:11 | INFO     | dispatcher:172 - Update id=719424272 is handled. Duration 155 ms by bot id=7104771551
+2025-03-28 21:07:11 | INFO     | dispatcher:172 - Update id=719424272 is handled. Duration 155 ms by bot id=7104771551
+2025-03-28 21:07:19 | INFO     | dispatcher:172 - Update id=719424273 is handled. Duration 147 ms by bot id=7104771551
+2025-03-28 21:07:19 | INFO     | dispatcher:172 - Update id=719424273 is handled. Duration 147 ms by bot id=7104771551
+2025-03-28 21:07:27 | INFO     | dispatcher:172 - Update id=719424274 is handled. Duration 116 ms by bot id=7104771551
+2025-03-28 21:07:27 | INFO     | dispatcher:172 - Update id=719424274 is handled. Duration 116 ms by bot id=7104771551
+2025-03-28 21:07:30 | INFO     | dispatcher:172 - Update id=719424275 is not handled. Duration 4 ms by bot id=7104771551
+2025-03-28 21:07:30 | INFO     | dispatcher:172 - Update id=719424275 is not handled. Duration 4 ms by bot id=7104771551
+2025-03-28 21:07:30 | ERROR    | dispatcher:315 - Cause exception while process update id=719424275 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'Interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 362, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'Interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:07:30 | ERROR    | dispatcher:315 - Cause exception while process update id=719424275 by bot id=7104771551
+ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'Interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+Traceback (most recent call last):
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\bot.py", line 362, in film_poster
+    film = Film(**data)
+  File "C:\Users\wfobo\PycharmProjects\tg_bot\.venv\Lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Film
+year
+  Field required [type=missing, input_value={'name': 'Interstallar', ...tellar_film_poster.jpg'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-03-28 21:10:00 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:10:00 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:10:00 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:10:00 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:10:04 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:10:04 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:10:05 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:10:05 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:10:05 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:10:05 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:10:09 | INFO     | dispatcher:172 - Update id=719424276 is handled. Duration 232 ms by bot id=7104771551
+2025-03-28 21:10:09 | INFO     | dispatcher:172 - Update id=719424276 is handled. Duration 232 ms by bot id=7104771551
+2025-03-28 21:10:15 | INFO     | dispatcher:172 - Update id=719424277 is handled. Duration 202 ms by bot id=7104771551
+2025-03-28 21:10:15 | INFO     | dispatcher:172 - Update id=719424277 is handled. Duration 202 ms by bot id=7104771551
+2025-03-28 21:10:21 | INFO     | dispatcher:172 - Update id=719424278 is handled. Duration 140 ms by bot id=7104771551
+2025-03-28 21:10:21 | INFO     | dispatcher:172 - Update id=719424278 is handled. Duration 140 ms by bot id=7104771551
+2025-03-28 21:10:24 | INFO     | dispatcher:172 - Update id=719424279 is handled. Duration 94 ms by bot id=7104771551
+2025-03-28 21:10:24 | INFO     | dispatcher:172 - Update id=719424279 is handled. Duration 94 ms by bot id=7104771551
+2025-03-28 21:10:28 | INFO     | dispatcher:172 - Update id=719424280 is handled. Duration 99 ms by bot id=7104771551
+2025-03-28 21:10:28 | INFO     | dispatcher:172 - Update id=719424280 is handled. Duration 99 ms by bot id=7104771551
+2025-03-28 21:10:33 | INFO     | dispatcher:172 - Update id=719424281 is handled. Duration 96 ms by bot id=7104771551
+2025-03-28 21:10:33 | INFO     | dispatcher:172 - Update id=719424281 is handled. Duration 96 ms by bot id=7104771551
+2025-03-28 21:10:45 | INFO     | dispatcher:172 - Update id=719424282 is handled. Duration 184 ms by bot id=7104771551
+2025-03-28 21:10:45 | INFO     | dispatcher:172 - Update id=719424282 is handled. Duration 184 ms by bot id=7104771551
+2025-03-28 21:10:50 | INFO     | dispatcher:172 - Update id=719424283 is handled. Duration 89 ms by bot id=7104771551
+2025-03-28 21:10:50 | INFO     | dispatcher:172 - Update id=719424283 is handled. Duration 89 ms by bot id=7104771551
+2025-03-28 21:10:54 | INFO     | dispatcher:172 - Update id=719424284 is handled. Duration 114 ms by bot id=7104771551
+2025-03-28 21:10:54 | INFO     | dispatcher:172 - Update id=719424284 is handled. Duration 114 ms by bot id=7104771551
+2025-03-28 21:10:56 | INFO     | dispatcher:172 - Update id=719424285 is handled. Duration 562 ms by bot id=7104771551
+2025-03-28 21:10:56 | INFO     | dispatcher:172 - Update id=719424285 is handled. Duration 562 ms by bot id=7104771551
+2025-03-28 21:14:17 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:17 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:17 | INFO     | dispatcher:172 - Update id=719424286 is handled. Duration 97 ms by bot id=7104771551
+2025-03-28 21:14:17 | INFO     | dispatcher:172 - Update id=719424286 is handled. Duration 97 ms by bot id=7104771551
+2025-03-28 21:14:18 | INFO     | dispatcher:172 - Update id=719424287 is handled. Duration 542 ms by bot id=7104771551
+2025-03-28 21:14:18 | INFO     | dispatcher:172 - Update id=719424287 is handled. Duration 542 ms by bot id=7104771551
+2025-03-28 21:14:24 | INFO     | dispatcher:172 - Update id=719424288 is handled. Duration 101 ms by bot id=7104771551
+2025-03-28 21:14:24 | INFO     | dispatcher:172 - Update id=719424288 is handled. Duration 101 ms by bot id=7104771551
+2025-03-28 21:14:30 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:30 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:30 | INFO     | dispatcher:172 - Update id=719424289 is handled. Duration 142 ms by bot id=7104771551
+2025-03-28 21:14:30 | INFO     | dispatcher:172 - Update id=719424289 is handled. Duration 142 ms by bot id=7104771551
+2025-03-28 21:14:34 | INFO     | dispatcher:172 - Update id=719424290 is handled. Duration 87 ms by bot id=7104771551
+2025-03-28 21:14:34 | INFO     | dispatcher:172 - Update id=719424290 is handled. Duration 87 ms by bot id=7104771551
+2025-03-28 21:14:45 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:45 | INFO     | bot:34 - Запущено редагування фільму
+2025-03-28 21:14:45 | INFO     | dispatcher:172 - Update id=719424291 is handled. Duration 130 ms by bot id=7104771551
+2025-03-28 21:14:45 | INFO     | dispatcher:172 - Update id=719424291 is handled. Duration 130 ms by bot id=7104771551
+2025-03-28 21:14:58 | INFO     | bot:54 - Обрано фільм: Interstallar
+2025-03-28 21:14:58 | INFO     | bot:54 - Обрано фільм: Interstallar
+2025-03-28 21:14:58 | INFO     | dispatcher:172 - Update id=719424292 is handled. Duration 171 ms by bot id=7104771551
+2025-03-28 21:14:58 | INFO     | dispatcher:172 - Update id=719424292 is handled. Duration 171 ms by bot id=7104771551
+2025-03-28 21:15:08 | INFO     | bot:66 - Назву змінено на: Interstellar 2
+2025-03-28 21:15:08 | INFO     | bot:66 - Назву змінено на: Interstellar 2
+2025-03-28 21:15:08 | INFO     | dispatcher:172 - Update id=719424293 is handled. Duration 136 ms by bot id=7104771551
+2025-03-28 21:15:08 | INFO     | dispatcher:172 - Update id=719424293 is handled. Duration 136 ms by bot id=7104771551
+2025-03-28 21:15:16 | INFO     | bot:83 - Опис змінено на: Interstallarr 2
+2025-03-28 21:15:16 | INFO     | bot:83 - Опис змінено на: Interstallarr 2
+2025-03-28 21:15:16 | INFO     | dispatcher:172 - Update id=719424294 is handled. Duration 116 ms by bot id=7104771551
+2025-03-28 21:15:16 | INFO     | dispatcher:172 - Update id=719424294 is handled. Duration 116 ms by bot id=7104771551
+2025-03-28 21:15:19 | INFO     | bot:101 - Рейтинг змінено на: 9.1
+2025-03-28 21:15:19 | INFO     | bot:101 - Рейтинг змінено на: 9.1
+2025-03-28 21:15:20 | INFO     | dispatcher:172 - Update id=719424295 is handled. Duration 94 ms by bot id=7104771551
+2025-03-28 21:15:20 | INFO     | dispatcher:172 - Update id=719424295 is handled. Duration 94 ms by bot id=7104771551
+2025-03-28 21:15:31 | INFO     | bot:120 - Жанр змінено на: fantasy, fantasyy
+2025-03-28 21:15:31 | INFO     | bot:120 - Жанр змінено на: fantasy, fantasyy
+2025-03-28 21:15:31 | INFO     | dispatcher:172 - Update id=719424296 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:15:31 | INFO     | dispatcher:172 - Update id=719424296 is handled. Duration 92 ms by bot id=7104771551
+2025-03-28 21:15:47 | INFO     | bot:151 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-03-28 21:15:47 | INFO     | bot:151 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-03-28 21:15:48 | INFO     | dispatcher:172 - Update id=719424297 is handled. Duration 174 ms by bot id=7104771551
+2025-03-28 21:15:48 | INFO     | dispatcher:172 - Update id=719424297 is handled. Duration 174 ms by bot id=7104771551
+2025-03-28 21:15:54 | INFO     | bot:168 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-03-28 21:15:54 | INFO     | bot:168 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-03-28 21:15:54 | INFO     | bot:173 - Всі зміни збережено у файл
+2025-03-28 21:15:54 | INFO     | bot:173 - Всі зміни збережено у файл
+2025-03-28 21:15:54 | INFO     | dispatcher:172 - Update id=719424298 is handled. Duration 153 ms by bot id=7104771551
+2025-03-28 21:15:54 | INFO     | dispatcher:172 - Update id=719424298 is handled. Duration 153 ms by bot id=7104771551
+2025-03-28 21:15:59 | INFO     | dispatcher:172 - Update id=719424299 is handled. Duration 83 ms by bot id=7104771551
+2025-03-28 21:15:59 | INFO     | dispatcher:172 - Update id=719424299 is handled. Duration 83 ms by bot id=7104771551
+2025-03-28 21:16:01 | INFO     | dispatcher:172 - Update id=719424300 is handled. Duration 516 ms by bot id=7104771551
+2025-03-28 21:16:01 | INFO     | dispatcher:172 - Update id=719424300 is handled. Duration 516 ms by bot id=7104771551
+2025-03-28 21:17:08 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:17:08 | INFO     | dispatcher:554 - Polling stopped
+2025-03-28 21:17:09 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:17:09 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:17:18 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:17:18 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-03-28 21:17:19 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:17:19 | INFO     | dispatcher:527 - Start polling
+2025-03-28 21:17:19 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:17:19 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-28 21:17:22 | INFO     | dispatcher:172 - Update id=719424301 is handled. Duration 237 ms by bot id=7104771551
+2025-03-28 21:17:22 | INFO     | dispatcher:172 - Update id=719424301 is handled. Duration 237 ms by bot id=7104771551
+2025-03-28 21:17:24 | INFO     | dispatcher:172 - Update id=719424302 is handled. Duration 767 ms by bot id=7104771551
+2025-03-28 21:17:24 | INFO     | dispatcher:172 - Update id=719424302 is handled. Duration 767 ms by bot id=7104771551
+2025-03-28 22:16:26 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2025-03-28 22:16:26 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2025-03-28 22:16:26 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-28 22:16:26 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-28 22:16:38 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-28 22:16:38 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-28 22:32:27 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-03-28 22:32:27 | ERROR    | dispatcher:219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-03-28 22:32:27 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-28 22:32:27 | WARNING  | dispatcher:221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7104771551)
+2025-03-28 22:32:39 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-28 22:32:39 | INFO     | dispatcher:233 - Connection established (tryings = 1, bot id = 7104771551)
+2025-03-29 02:47:02 | INFO     | dispatcher:554 - Polling stopped
+2025-03-29 02:47:02 | INFO     | dispatcher:554 - Polling stopped
+2025-03-29 02:47:02 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-03-29 02:47:02 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:37:03 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:37:03 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:37:04 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:37:04 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:37:04 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:37:04 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:37:09 | INFO     | dispatcher:172 - Update id=719424303 is handled. Duration 259 ms by bot id=7104771551
+2025-04-02 01:37:09 | INFO     | dispatcher:172 - Update id=719424303 is handled. Duration 259 ms by bot id=7104771551
+2025-04-02 01:37:11 | INFO     | dispatcher:172 - Update id=719424304 is handled. Duration 585 ms by bot id=7104771551
+2025-04-02 01:37:11 | INFO     | dispatcher:172 - Update id=719424304 is handled. Duration 585 ms by bot id=7104771551
+2025-04-02 01:37:14 | INFO     | dispatcher:172 - Update id=719424305 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 01:37:14 | INFO     | dispatcher:172 - Update id=719424305 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 01:37:15 | INFO     | dispatcher:172 - Update id=719424306 is handled. Duration 322 ms by bot id=7104771551
+2025-04-02 01:37:15 | INFO     | dispatcher:172 - Update id=719424306 is handled. Duration 322 ms by bot id=7104771551
+2025-04-02 01:37:19 | INFO     | dispatcher:172 - Update id=719424307 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:37:19 | INFO     | dispatcher:172 - Update id=719424307 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:37:28 | INFO     | dispatcher:172 - Update id=719424308 is handled. Duration 157 ms by bot id=7104771551
+2025-04-02 01:37:28 | INFO     | dispatcher:172 - Update id=719424308 is handled. Duration 157 ms by bot id=7104771551
+2025-04-02 01:37:29 | INFO     | dispatcher:172 - Update id=719424309 is handled. Duration 340 ms by bot id=7104771551
+2025-04-02 01:37:29 | INFO     | dispatcher:172 - Update id=719424309 is handled. Duration 340 ms by bot id=7104771551
+2025-04-02 01:37:31 | INFO     | dispatcher:172 - Update id=719424310 is handled. Duration 95 ms by bot id=7104771551
+2025-04-02 01:37:31 | INFO     | dispatcher:172 - Update id=719424310 is handled. Duration 95 ms by bot id=7104771551
+2025-04-02 01:37:38 | INFO     | dispatcher:172 - Update id=719424311 is handled. Duration 317 ms by bot id=7104771551
+2025-04-02 01:37:38 | INFO     | dispatcher:172 - Update id=719424311 is handled. Duration 317 ms by bot id=7104771551
+2025-04-02 01:37:39 | INFO     | dispatcher:172 - Update id=719424312 is handled. Duration 239 ms by bot id=7104771551
+2025-04-02 01:37:39 | INFO     | dispatcher:172 - Update id=719424312 is handled. Duration 239 ms by bot id=7104771551
+2025-04-02 01:37:57 | DEBUG    | bot:296 - Hello
+2025-04-02 01:37:57 | DEBUG    | bot:296 - Hello
+2025-04-02 01:37:57 | INFO     | dispatcher:172 - Update id=719424313 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 01:37:57 | INFO     | dispatcher:172 - Update id=719424313 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 01:38:02 | INFO     | dispatcher:172 - Update id=719424314 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:38:02 | INFO     | dispatcher:172 - Update id=719424314 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:38:09 | INFO     | dispatcher:172 - Update id=719424315 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:38:09 | INFO     | dispatcher:172 - Update id=719424315 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:38:11 | INFO     | dispatcher:172 - Update id=719424316 is handled. Duration 524 ms by bot id=7104771551
+2025-04-02 01:38:11 | INFO     | dispatcher:172 - Update id=719424316 is handled. Duration 524 ms by bot id=7104771551
+2025-04-02 01:38:17 | INFO     | dispatcher:172 - Update id=719424317 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:38:17 | INFO     | dispatcher:172 - Update id=719424317 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:38:25 | INFO     | dispatcher:172 - Update id=719424318 is handled. Duration 149 ms by bot id=7104771551
+2025-04-02 01:38:25 | INFO     | dispatcher:172 - Update id=719424318 is handled. Duration 149 ms by bot id=7104771551
+2025-04-02 01:38:27 | INFO     | dispatcher:172 - Update id=719424319 is handled. Duration 386 ms by bot id=7104771551
+2025-04-02 01:38:27 | INFO     | dispatcher:172 - Update id=719424319 is handled. Duration 386 ms by bot id=7104771551
+2025-04-02 01:38:31 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:38:31 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:38:31 | INFO     | dispatcher:172 - Update id=719424320 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:38:31 | INFO     | dispatcher:172 - Update id=719424320 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 01:38:33 | INFO     | dispatcher:172 - Update id=719424321 is handled. Duration 315 ms by bot id=7104771551
+2025-04-02 01:38:33 | INFO     | dispatcher:172 - Update id=719424321 is handled. Duration 315 ms by bot id=7104771551
+2025-04-02 01:38:38 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:38:38 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:38:38 | INFO     | dispatcher:172 - Update id=719424322 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:38:38 | INFO     | dispatcher:172 - Update id=719424322 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:38:44 | INFO     | bot:54 - Обрано фільм: Interstellar 2
+2025-04-02 01:38:44 | INFO     | bot:54 - Обрано фільм: Interstellar 2
+2025-04-02 01:38:44 | INFO     | dispatcher:172 - Update id=719424323 is handled. Duration 94 ms by bot id=7104771551
+2025-04-02 01:38:44 | INFO     | dispatcher:172 - Update id=719424323 is handled. Duration 94 ms by bot id=7104771551
+2025-04-02 01:38:51 | INFO     | bot:66 - Назву змінено на: Interstellar 3
+2025-04-02 01:38:51 | INFO     | bot:66 - Назву змінено на: Interstellar 3
+2025-04-02 01:38:51 | INFO     | dispatcher:172 - Update id=719424324 is handled. Duration 110 ms by bot id=7104771551
+2025-04-02 01:38:51 | INFO     | dispatcher:172 - Update id=719424324 is handled. Duration 110 ms by bot id=7104771551
+2025-04-02 01:39:02 | INFO     | bot:83 - Опис змінено на: Interstellarrr 3
+2025-04-02 01:39:02 | INFO     | bot:83 - Опис змінено на: Interstellarrr 3
+2025-04-02 01:39:02 | INFO     | dispatcher:172 - Update id=719424325 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:39:02 | INFO     | dispatcher:172 - Update id=719424325 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:39:05 | INFO     | bot:101 - Рейтинг змінено на: 9.2
+2025-04-02 01:39:05 | INFO     | bot:101 - Рейтинг змінено на: 9.2
+2025-04-02 01:39:06 | INFO     | dispatcher:172 - Update id=719424326 is handled. Duration 97 ms by bot id=7104771551
+2025-04-02 01:39:06 | INFO     | dispatcher:172 - Update id=719424326 is handled. Duration 97 ms by bot id=7104771551
+2025-04-02 01:39:14 | INFO     | bot:120 - Жанр змінено на: fanntasy
+2025-04-02 01:39:14 | INFO     | bot:120 - Жанр змінено на: fanntasy
+2025-04-02 01:39:15 | INFO     | dispatcher:172 - Update id=719424327 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:39:15 | INFO     | dispatcher:172 - Update id=719424327 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:39:22 | INFO     | bot:151 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 01:39:22 | INFO     | bot:151 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 01:39:22 | INFO     | dispatcher:172 - Update id=719424328 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:39:22 | INFO     | dispatcher:172 - Update id=719424328 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:39:28 | INFO     | bot:168 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 01:39:28 | INFO     | bot:168 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 01:39:28 | INFO     | bot:173 - Всі зміни збережено у файл
+2025-04-02 01:39:28 | INFO     | bot:173 - Всі зміни збережено у файл
+2025-04-02 01:39:28 | INFO     | dispatcher:172 - Update id=719424329 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 01:39:28 | INFO     | dispatcher:172 - Update id=719424329 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 01:39:31 | INFO     | dispatcher:172 - Update id=719424330 is handled. Duration 103 ms by bot id=7104771551
+2025-04-02 01:39:31 | INFO     | dispatcher:172 - Update id=719424330 is handled. Duration 103 ms by bot id=7104771551
+2025-04-02 01:39:33 | INFO     | dispatcher:172 - Update id=719424331 is handled. Duration 512 ms by bot id=7104771551
+2025-04-02 01:39:33 | INFO     | dispatcher:172 - Update id=719424331 is handled. Duration 512 ms by bot id=7104771551
+2025-04-02 01:39:37 | INFO     | dispatcher:172 - Update id=719424332 is handled. Duration 89 ms by bot id=7104771551
+2025-04-02 01:39:37 | INFO     | dispatcher:172 - Update id=719424332 is handled. Duration 89 ms by bot id=7104771551
+2025-04-02 01:39:38 | INFO     | dispatcher:172 - Update id=719424333 is handled. Duration 226 ms by bot id=7104771551
+2025-04-02 01:39:38 | INFO     | dispatcher:172 - Update id=719424333 is handled. Duration 226 ms by bot id=7104771551
+2025-04-02 01:44:27 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:44:27 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:44:27 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:44:27 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:44:32 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:44:32 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:44:32 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:44:32 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:44:32 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:44:32 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:44:36 | INFO     | dispatcher:172 - Update id=719424334 is handled. Duration 260 ms by bot id=7104771551
+2025-04-02 01:44:36 | INFO     | dispatcher:172 - Update id=719424334 is handled. Duration 260 ms by bot id=7104771551
+2025-04-02 01:44:38 | INFO     | dispatcher:172 - Update id=719424335 is handled. Duration 665 ms by bot id=7104771551
+2025-04-02 01:44:38 | INFO     | dispatcher:172 - Update id=719424335 is handled. Duration 665 ms by bot id=7104771551
+2025-04-02 01:44:47 | INFO     | dispatcher:172 - Update id=719424336 is handled. Duration 84 ms by bot id=7104771551
+2025-04-02 01:44:47 | INFO     | dispatcher:172 - Update id=719424336 is handled. Duration 84 ms by bot id=7104771551
+2025-04-02 01:44:52 | INFO     | dispatcher:172 - Update id=719424337 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:44:52 | INFO     | dispatcher:172 - Update id=719424337 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:44:53 | INFO     | dispatcher:172 - Update id=719424338 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:44:53 | INFO     | dispatcher:172 - Update id=719424338 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:44:57 | INFO     | dispatcher:172 - Update id=719424339 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:44:57 | INFO     | dispatcher:172 - Update id=719424339 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:45:00 | INFO     | dispatcher:172 - Update id=719424340 is handled. Duration 113 ms by bot id=7104771551
+2025-04-02 01:45:00 | INFO     | dispatcher:172 - Update id=719424340 is handled. Duration 113 ms by bot id=7104771551
+2025-04-02 01:45:06 | INFO     | dispatcher:172 - Update id=719424341 is handled. Duration 111 ms by bot id=7104771551
+2025-04-02 01:45:06 | INFO     | dispatcher:172 - Update id=719424341 is handled. Duration 111 ms by bot id=7104771551
+2025-04-02 01:45:11 | INFO     | dispatcher:172 - Update id=719424342 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:45:11 | INFO     | dispatcher:172 - Update id=719424342 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:45:19 | INFO     | dispatcher:172 - Update id=719424343 is handled. Duration 96 ms by bot id=7104771551
+2025-04-02 01:45:19 | INFO     | dispatcher:172 - Update id=719424343 is handled. Duration 96 ms by bot id=7104771551
+2025-04-02 01:45:41 | INFO     | dispatcher:172 - Update id=719424344 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:45:41 | INFO     | dispatcher:172 - Update id=719424344 is handled. Duration 98 ms by bot id=7104771551
+2025-04-02 01:45:44 | INFO     | dispatcher:172 - Update id=719424345 is handled. Duration 102 ms by bot id=7104771551
+2025-04-02 01:45:44 | INFO     | dispatcher:172 - Update id=719424345 is handled. Duration 102 ms by bot id=7104771551
+2025-04-02 01:45:46 | INFO     | dispatcher:172 - Update id=719424346 is handled. Duration 628 ms by bot id=7104771551
+2025-04-02 01:45:46 | INFO     | dispatcher:172 - Update id=719424346 is handled. Duration 628 ms by bot id=7104771551
+2025-04-02 01:45:51 | INFO     | dispatcher:172 - Update id=719424347 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 01:45:51 | INFO     | dispatcher:172 - Update id=719424347 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 01:45:52 | INFO     | dispatcher:172 - Update id=719424348 is handled. Duration 91 ms by bot id=7104771551
+2025-04-02 01:45:52 | INFO     | dispatcher:172 - Update id=719424348 is handled. Duration 91 ms by bot id=7104771551
+2025-04-02 01:45:55 | INFO     | dispatcher:172 - Update id=719424349 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:45:55 | INFO     | dispatcher:172 - Update id=719424349 is handled. Duration 87 ms by bot id=7104771551
+2025-04-02 01:48:24 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:48:24 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:48:24 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:48:24 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:48:28 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:48:28 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:48:29 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:48:29 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:48:29 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:48:29 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:48:33 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:48:33 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:48:33 | INFO     | dispatcher:172 - Update id=719424350 is handled. Duration 226 ms by bot id=7104771551
+2025-04-02 01:48:33 | INFO     | dispatcher:172 - Update id=719424350 is handled. Duration 226 ms by bot id=7104771551
+2025-04-02 01:48:39 | INFO     | bot:54 - Обрано фільм: Interstellar 3
+2025-04-02 01:48:39 | INFO     | bot:54 - Обрано фільм: Interstellar 3
+2025-04-02 01:48:39 | INFO     | dispatcher:172 - Update id=719424351 is handled. Duration 89 ms by bot id=7104771551
+2025-04-02 01:48:39 | INFO     | dispatcher:172 - Update id=719424351 is handled. Duration 89 ms by bot id=7104771551
+2025-04-02 01:48:45 | INFO     | bot:66 - Назву змінено на: Interstellar 3
+2025-04-02 01:48:45 | INFO     | bot:66 - Назву змінено на: Interstellar 3
+2025-04-02 01:48:45 | INFO     | dispatcher:172 - Update id=719424352 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:48:45 | INFO     | dispatcher:172 - Update id=719424352 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:48:53 | INFO     | bot:83 - Опис змінено на: interstellllar 4
+2025-04-02 01:48:53 | INFO     | bot:83 - Опис змінено на: interstellllar 4
+2025-04-02 01:48:53 | INFO     | dispatcher:172 - Update id=719424353 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:48:53 | INFO     | dispatcher:172 - Update id=719424353 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 01:48:55 | INFO     | bot:101 - Рейтинг змінено на: 9.3
+2025-04-02 01:48:55 | INFO     | bot:101 - Рейтинг змінено на: 9.3
+2025-04-02 01:48:55 | INFO     | dispatcher:172 - Update id=719424354 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:48:55 | INFO     | dispatcher:172 - Update id=719424354 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:49:02 | INFO     | bot:120 - Жанр змінено на: ffffantasy
+2025-04-02 01:49:02 | INFO     | bot:120 - Жанр змінено на: ffffantasy
+2025-04-02 01:49:02 | INFO     | dispatcher:172 - Update id=719424355 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 01:49:02 | INFO     | dispatcher:172 - Update id=719424355 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 01:49:04 | INFO     | bot:140 - Рік змінено на: 2004
+2025-04-02 01:49:04 | INFO     | bot:140 - Рік змінено на: 2004
+2025-04-02 01:49:04 | INFO     | dispatcher:172 - Update id=719424356 is handled. Duration 91 ms by bot id=7104771551
+2025-04-02 01:49:04 | INFO     | dispatcher:172 - Update id=719424356 is handled. Duration 91 ms by bot id=7104771551
+2025-04-02 01:49:10 | INFO     | bot:164 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 01:49:10 | INFO     | bot:164 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 01:49:10 | INFO     | dispatcher:172 - Update id=719424357 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:49:10 | INFO     | dispatcher:172 - Update id=719424357 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 01:49:18 | INFO     | bot:181 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 01:49:18 | INFO     | bot:181 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 01:49:18 | INFO     | bot:186 - Всі зміни збережено у файл
+2025-04-02 01:49:18 | INFO     | bot:186 - Всі зміни збережено у файл
+2025-04-02 01:49:18 | INFO     | dispatcher:172 - Update id=719424358 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:49:18 | INFO     | dispatcher:172 - Update id=719424358 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 01:49:22 | INFO     | dispatcher:172 - Update id=719424359 is handled. Duration 122 ms by bot id=7104771551
+2025-04-02 01:49:22 | INFO     | dispatcher:172 - Update id=719424359 is handled. Duration 122 ms by bot id=7104771551
+2025-04-02 01:49:24 | INFO     | dispatcher:172 - Update id=719424360 is handled. Duration 570 ms by bot id=7104771551
+2025-04-02 01:49:24 | INFO     | dispatcher:172 - Update id=719424360 is handled. Duration 570 ms by bot id=7104771551
+2025-04-02 01:51:35 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:51:35 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:51:36 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:51:36 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:51:40 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:51:40 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:51:41 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:51:41 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:51:41 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:51:41 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:51:42 | INFO     | dispatcher:172 - Update id=719424361 is handled. Duration 250 ms by bot id=7104771551
+2025-04-02 01:51:42 | INFO     | dispatcher:172 - Update id=719424361 is handled. Duration 250 ms by bot id=7104771551
+2025-04-02 01:51:47 | INFO     | dispatcher:172 - Update id=719424362 is handled. Duration 706 ms by bot id=7104771551
+2025-04-02 01:51:47 | INFO     | dispatcher:172 - Update id=719424362 is handled. Duration 706 ms by bot id=7104771551
+2025-04-02 01:51:50 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:51:50 | INFO     | bot:34 - Запущено редагування фільму
+2025-04-02 01:51:50 | INFO     | dispatcher:172 - Update id=719424363 is handled. Duration 101 ms by bot id=7104771551
+2025-04-02 01:51:50 | INFO     | dispatcher:172 - Update id=719424363 is handled. Duration 101 ms by bot id=7104771551
+2025-04-02 01:51:51 | INFO     | bot:54 - Обрано фільм через callback: Interstellar 3
+2025-04-02 01:51:51 | INFO     | bot:54 - Обрано фільм через callback: Interstellar 3
+2025-04-02 01:51:51 | INFO     | dispatcher:172 - Update id=719424364 is handled. Duration 167 ms by bot id=7104771551
+2025-04-02 01:51:51 | INFO     | dispatcher:172 - Update id=719424364 is handled. Duration 167 ms by bot id=7104771551
+2025-04-02 01:57:05 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:57:05 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 01:57:05 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:57:05 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:57:09 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:57:09 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 01:57:10 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:57:10 | INFO     | dispatcher:527 - Start polling
+2025-04-02 01:57:10 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 01:57:10 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:00:12 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:00:12 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:00:12 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:00:12 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:01:26 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:01:26 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:01:27 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:01:27 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:01:27 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:01:27 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:01:47 | INFO     | bot:310 - Показана статистика фільмів
+2025-04-02 02:01:47 | INFO     | bot:310 - Показана статистика фільмів
+2025-04-02 02:01:47 | INFO     | dispatcher:172 - Update id=719424365 is handled. Duration 270 ms by bot id=7104771551
+2025-04-02 02:01:47 | INFO     | dispatcher:172 - Update id=719424365 is handled. Duration 270 ms by bot id=7104771551
+2025-04-02 02:02:57 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:02:57 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:02:57 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:02:57 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:03:44 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:03:44 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:03:44 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:03:44 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:03:44 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:03:44 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:03:44 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:03:44 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:03:44 | INFO     | dispatcher:172 - Update id=719424366 is handled. Duration 234 ms by bot id=7104771551
+2025-04-02 02:03:44 | INFO     | dispatcher:172 - Update id=719424366 is handled. Duration 234 ms by bot id=7104771551
+2025-04-02 02:03:54 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:03:54 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:03:54 | INFO     | dispatcher:172 - Update id=719424367 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:03:54 | INFO     | dispatcher:172 - Update id=719424367 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:04:12 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:04:12 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:04:12 | INFO     | dispatcher:172 - Update id=719424368 is handled. Duration 101 ms by bot id=7104771551
+2025-04-02 02:04:12 | INFO     | dispatcher:172 - Update id=719424368 is handled. Duration 101 ms by bot id=7104771551
+2025-04-02 02:04:17 | INFO     | bot:56 - Обрано фільм через callback: Interstellar 3
+2025-04-02 02:04:17 | INFO     | bot:56 - Обрано фільм через callback: Interstellar 3
+2025-04-02 02:04:18 | INFO     | dispatcher:172 - Update id=719424369 is handled. Duration 218 ms by bot id=7104771551
+2025-04-02 02:04:18 | INFO     | dispatcher:172 - Update id=719424369 is handled. Duration 218 ms by bot id=7104771551
+2025-04-02 02:04:24 | INFO     | bot:89 - Назву змінено на: Interltellar
+2025-04-02 02:04:24 | INFO     | bot:89 - Назву змінено на: Interltellar
+2025-04-02 02:04:24 | INFO     | dispatcher:172 - Update id=719424370 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:04:24 | INFO     | dispatcher:172 - Update id=719424370 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:04:32 | INFO     | bot:106 - Опис змінено на: Interstellar test 2
+2025-04-02 02:04:32 | INFO     | bot:106 - Опис змінено на: Interstellar test 2
+2025-04-02 02:04:33 | INFO     | dispatcher:172 - Update id=719424371 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 02:04:33 | INFO     | dispatcher:172 - Update id=719424371 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 02:04:37 | INFO     | bot:124 - Рейтинг змінено на: 9.1
+2025-04-02 02:04:37 | INFO     | bot:124 - Рейтинг змінено на: 9.1
+2025-04-02 02:04:37 | INFO     | dispatcher:172 - Update id=719424372 is handled. Duration 106 ms by bot id=7104771551
+2025-04-02 02:04:37 | INFO     | dispatcher:172 - Update id=719424372 is handled. Duration 106 ms by bot id=7104771551
+2025-04-02 02:04:41 | INFO     | bot:143 - Жанр змінено на: fantasy
+2025-04-02 02:04:41 | INFO     | bot:143 - Жанр змінено на: fantasy
+2025-04-02 02:04:41 | INFO     | dispatcher:172 - Update id=719424373 is handled. Duration 122 ms by bot id=7104771551
+2025-04-02 02:04:41 | INFO     | dispatcher:172 - Update id=719424373 is handled. Duration 122 ms by bot id=7104771551
+2025-04-02 02:04:44 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:04:44 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:04:44 | INFO     | dispatcher:172 - Update id=719424374 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 02:04:44 | INFO     | dispatcher:172 - Update id=719424374 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 02:04:50 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:04:50 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:04:50 | INFO     | dispatcher:172 - Update id=719424375 is handled. Duration 114 ms by bot id=7104771551
+2025-04-02 02:04:50 | INFO     | dispatcher:172 - Update id=719424375 is handled. Duration 114 ms by bot id=7104771551
+2025-04-02 02:04:55 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 02:04:55 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 02:04:55 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:04:55 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:04:56 | INFO     | dispatcher:172 - Update id=719424376 is handled. Duration 168 ms by bot id=7104771551
+2025-04-02 02:04:56 | INFO     | dispatcher:172 - Update id=719424376 is handled. Duration 168 ms by bot id=7104771551
+2025-04-02 02:04:59 | INFO     | dispatcher:172 - Update id=719424377 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:04:59 | INFO     | dispatcher:172 - Update id=719424377 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:05:01 | INFO     | dispatcher:172 - Update id=719424378 is handled. Duration 746 ms by bot id=7104771551
+2025-04-02 02:05:01 | INFO     | dispatcher:172 - Update id=719424378 is handled. Duration 746 ms by bot id=7104771551
+2025-04-02 02:05:05 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:05:05 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:05:05 | INFO     | dispatcher:172 - Update id=719424379 is handled. Duration 103 ms by bot id=7104771551
+2025-04-02 02:05:05 | INFO     | dispatcher:172 - Update id=719424379 is handled. Duration 103 ms by bot id=7104771551
+2025-04-02 02:05:18 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:05:18 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:05:18 | INFO     | dispatcher:172 - Update id=719424380 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 02:05:18 | INFO     | dispatcher:172 - Update id=719424380 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 02:05:19 | INFO     | bot:56 - Обрано фільм через callback: Interltellar
+2025-04-02 02:05:19 | INFO     | bot:56 - Обрано фільм через callback: Interltellar
+2025-04-02 02:05:19 | INFO     | dispatcher:172 - Update id=719424381 is handled. Duration 168 ms by bot id=7104771551
+2025-04-02 02:05:19 | INFO     | dispatcher:172 - Update id=719424381 is handled. Duration 168 ms by bot id=7104771551
+2025-04-02 02:05:27 | INFO     | bot:89 - Назву змінено на: Interstellar
+2025-04-02 02:05:27 | INFO     | bot:89 - Назву змінено на: Interstellar
+2025-04-02 02:05:27 | INFO     | dispatcher:172 - Update id=719424382 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 02:05:27 | INFO     | dispatcher:172 - Update id=719424382 is handled. Duration 81 ms by bot id=7104771551
+2025-04-02 02:05:34 | INFO     | bot:106 - Опис змінено на: Interstellar test 3
+2025-04-02 02:05:34 | INFO     | bot:106 - Опис змінено на: Interstellar test 3
+2025-04-02 02:05:34 | INFO     | dispatcher:172 - Update id=719424383 is handled. Duration 254 ms by bot id=7104771551
+2025-04-02 02:05:34 | INFO     | dispatcher:172 - Update id=719424383 is handled. Duration 254 ms by bot id=7104771551
+2025-04-02 02:05:36 | INFO     | bot:124 - Рейтинг змінено на: 9.1
+2025-04-02 02:05:36 | INFO     | bot:124 - Рейтинг змінено на: 9.1
+2025-04-02 02:05:36 | INFO     | dispatcher:172 - Update id=719424384 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 02:05:36 | INFO     | dispatcher:172 - Update id=719424384 is handled. Duration 83 ms by bot id=7104771551
+2025-04-02 02:05:51 | INFO     | bot:143 - Жанр змінено на: Fantasy
+2025-04-02 02:05:51 | INFO     | bot:143 - Жанр змінено на: Fantasy
+2025-04-02 02:05:51 | INFO     | dispatcher:172 - Update id=719424385 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 02:05:51 | INFO     | dispatcher:172 - Update id=719424385 is handled. Duration 86 ms by bot id=7104771551
+2025-04-02 02:05:53 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:05:53 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:05:53 | INFO     | dispatcher:172 - Update id=719424386 is handled. Duration 85 ms by bot id=7104771551
+2025-04-02 02:05:53 | INFO     | dispatcher:172 - Update id=719424386 is handled. Duration 85 ms by bot id=7104771551
+2025-04-02 02:05:59 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:05:59 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:05:59 | INFO     | dispatcher:172 - Update id=719424387 is handled. Duration 116 ms by bot id=7104771551
+2025-04-02 02:05:59 | INFO     | dispatcher:172 - Update id=719424387 is handled. Duration 116 ms by bot id=7104771551
+2025-04-02 02:06:07 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg)
+2025-04-02 02:06:07 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg)
+2025-04-02 02:06:07 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:06:07 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:06:07 | INFO     | dispatcher:172 - Update id=719424388 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 02:06:07 | INFO     | dispatcher:172 - Update id=719424388 is handled. Duration 128 ms by bot id=7104771551
+2025-04-02 02:06:10 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:06:10 | INFO     | bot:311 - Показана статистика фільмів
+2025-04-02 02:06:10 | INFO     | dispatcher:172 - Update id=719424389 is handled. Duration 207 ms by bot id=7104771551
+2025-04-02 02:06:10 | INFO     | dispatcher:172 - Update id=719424389 is handled. Duration 207 ms by bot id=7104771551
+2025-04-02 02:09:09 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:09:09 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:09:09 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:09:09 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:10:46 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:10:46 | DEBUG    | proactor_events:631 - Using proactor: IocpProactor
+2025-04-02 02:10:47 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:10:47 | INFO     | dispatcher:527 - Start polling
+2025-04-02 02:10:47 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:10:47 | INFO     | dispatcher:341 - Run polling for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:10:52 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:10:52 | INFO     | bot:36 - Запущено редагування фільму
+2025-04-02 02:10:52 | INFO     | dispatcher:172 - Update id=719424390 is handled. Duration 378 ms by bot id=7104771551
+2025-04-02 02:10:52 | INFO     | dispatcher:172 - Update id=719424390 is handled. Duration 378 ms by bot id=7104771551
+2025-04-02 02:10:53 | INFO     | bot:56 - Обрано фільм через callback: Interstellar
+2025-04-02 02:10:53 | INFO     | bot:56 - Обрано фільм через callback: Interstellar
+2025-04-02 02:10:53 | INFO     | dispatcher:172 - Update id=719424391 is handled. Duration 167 ms by bot id=7104771551
+2025-04-02 02:10:53 | INFO     | dispatcher:172 - Update id=719424391 is handled. Duration 167 ms by bot id=7104771551
+2025-04-02 02:10:58 | INFO     | bot:89 - Назву змінено на: Interstellar
+2025-04-02 02:10:58 | INFO     | bot:89 - Назву змінено на: Interstellar
+2025-04-02 02:10:58 | INFO     | dispatcher:172 - Update id=719424392 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 02:10:58 | INFO     | dispatcher:172 - Update id=719424392 is handled. Duration 93 ms by bot id=7104771551
+2025-04-02 02:11:08 | INFO     | bot:106 - Опис змінено на: interstellar test4
+2025-04-02 02:11:08 | INFO     | bot:106 - Опис змінено на: interstellar test4
+2025-04-02 02:11:08 | INFO     | dispatcher:172 - Update id=719424393 is handled. Duration 159 ms by bot id=7104771551
+2025-04-02 02:11:08 | INFO     | dispatcher:172 - Update id=719424393 is handled. Duration 159 ms by bot id=7104771551
+2025-04-02 02:11:11 | INFO     | bot:124 - Рейтинг змінено на: 9.0
+2025-04-02 02:11:11 | INFO     | bot:124 - Рейтинг змінено на: 9.0
+2025-04-02 02:11:11 | INFO     | dispatcher:172 - Update id=719424394 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:11:11 | INFO     | dispatcher:172 - Update id=719424394 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:11:16 | INFO     | bot:143 - Жанр змінено на: fantasy
+2025-04-02 02:11:16 | INFO     | bot:143 - Жанр змінено на: fantasy
+2025-04-02 02:11:16 | INFO     | dispatcher:172 - Update id=719424395 is handled. Duration 158 ms by bot id=7104771551
+2025-04-02 02:11:16 | INFO     | dispatcher:172 - Update id=719424395 is handled. Duration 158 ms by bot id=7104771551
+2025-04-02 02:11:17 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:11:17 | INFO     | bot:163 - Рік змінено на: 2001
+2025-04-02 02:11:18 | INFO     | dispatcher:172 - Update id=719424396 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:11:18 | INFO     | dispatcher:172 - Update id=719424396 is handled. Duration 80 ms by bot id=7104771551
+2025-04-02 02:11:24 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:11:24 | INFO     | bot:186 - Акторів змінено на: ['Matthew McConaugheyy', 'Topher Grace']
+2025-04-02 02:11:24 | INFO     | dispatcher:172 - Update id=719424397 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 02:11:24 | INFO     | dispatcher:172 - Update id=719424397 is handled. Duration 88 ms by bot id=7104771551
+2025-04-02 02:11:30 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 02:11:30 | INFO     | bot:203 - Постер змінено на: https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg
+2025-04-02 02:11:30 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:11:30 | INFO     | bot:208 - Всі зміни збережено у файл
+2025-04-02 02:11:30 | INFO     | dispatcher:172 - Update id=719424398 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 02:11:30 | INFO     | dispatcher:172 - Update id=719424398 is handled. Duration 82 ms by bot id=7104771551
+2025-04-02 02:11:35 | INFO     | bot:309 - Показана статистика фільмів
+2025-04-02 02:11:35 | INFO     | bot:309 - Показана статистика фільмів
+2025-04-02 02:11:35 | INFO     | dispatcher:172 - Update id=719424399 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:11:35 | INFO     | dispatcher:172 - Update id=719424399 is handled. Duration 99 ms by bot id=7104771551
+2025-04-02 02:11:59 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:11:59 | INFO     | dispatcher:554 - Polling stopped
+2025-04-02 02:12:00 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'
+2025-04-02 02:12:00 | INFO     | dispatcher:359 - Polling stopped for bot @filmssearch111bot id=7104771551 - 'filmssearch_bot'

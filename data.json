@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Harry Potter and the Philosopher's Stone (2001) is the first film in the iconic Harry Potter series, based on the bestselling novel by J.K. Rowling. Directed by Chris Columbus, the film introduces Harry Potter, a young boy who learns on his 11th birthday that he is a wizard. As Harry embarks on his first year at Hogwarts School of Witchcraft and Wizardry, he discovers the magic world, makes lifelong friends, and uncovers secrets about his past, including the truth behind the death of his parents. The film blends adventure, fantasy, and mystery, drawing audiences into a world full of wonder and dark secrets.",
+        "rating": 7.1,
+        "genre": "Fantasy, Adventure",
+        "year": 2001,
+        "actors": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "John Cleese",
+            "Robbie Coltrane",
+            "Warwick Davis",
+            "Richard Griffiths",
+            "Richard Harris",
+            "Ian Hart",
+            "John Hurt",
+            "Alan Rickman",
+            "Fiona Shaw",
+            "Maggie Smith",
+            "Julie Walters"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+    },
+    {
+        "name": "Garfield: The Movie",
+        "description": "Garfield: The Movie (2004) is a comedy based on the beloved comic strip by Jim Davis. The film tells the story of Garfield, a lazy, sarcastic orange cat who lives with his owner, Jon Arbuckle. When Jon adopts a puppy named Odie, Garfield's life is thrown into chaos as he tries to rid himself of the unwanted new pet. However, as the plot unfolds, Garfield learns lessons about friendship and responsibility, all while delivering his classic dry humor. With a mixture of live-action and CGI animation, the film brings Garfield's world to life with plenty of laughs and antics.",
+        "rating": 3.52,
+        "genre": "Comedy, Family",
+        "year": 2004,
+        "actors": [
+            "Breckin Meyer",
+            "Jennifer Love Hewitt",
+            "Stephen Tobolowsky",
+            "Bill Murray"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+    },
+    {
+        "name": "The Hunger Games 3",
+        "description": "The Hunger Games (2025) is a dystopian thriller set in a future where a totalitarian government forces children from each district to fight to the death in a televised event known as the Hunger Games. Katniss Everdeen (Jennifer Lawrence), a young girl from District 12, volunteers to take her sister's place in the deadly competition. As she faces physical and emotional challenges, Katniss becomes a symbol of hope and rebellion for the oppressed citizens of Panem. The film explores themes of survival, injustice, and the power of media in shaping reality.",
+        "rating": 7.3,
+        "genre": "Dystopian, Science Fiction, Actionn",
+        "year": 2012,
+        "actors": [
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Liam Hemsworth",
+            "Woody Harrelson",
+            "Elizabeth Banks",
+            "Donald Sutherland",
+            "Stanley Tuci"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg"
+    },
+    {
+        "name": "Interstellar",
+        "description": "interstellar test4",
+        "rating": 9.0,
+        "genre": "fantasy",
+        "year": 2001,
+        "actors": [
+            "Matthew McConaugheyy",
+            "Topher Grace"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    }
+]
